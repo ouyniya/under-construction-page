@@ -1,6 +1,8 @@
 # 🚧 Under Construction Page Workshop 🚧
 Welcome to the Under Construction Page Workshop! This is one of the engaging and hands-on workshops offered by CodeCamp Thailand to help participants learn and practice essential web development skills.
 
+## Live Demo
+https://ouyniya.github.io/under-construction-page/
 
 ## 📋 Workshop Objectives
 By the end of this workshop, participants will be able to:
